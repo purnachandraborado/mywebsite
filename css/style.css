@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a:hover {
+    border: 1px solid white;
+    background: white;
+    border-radius: 10px;
+    color: black!important;
+}
+
+.bann {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/person-writing-on-notebook-669615.jpg");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.cont {
+    position: absolute;
+    color: aliceblue;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 300;
+}
+
+.btn {
+    background: white;
+    color: black;
+    font-weight: 500;
+}

@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bacimg {
+    position: relative;
+    background: url("../images/person-holding-white-and-blue-business-paper-936137.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.bac {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-60%, -50%);
+}
