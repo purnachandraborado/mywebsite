@@ -22,10 +22,10 @@
     <div id="my-nav" class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="./signup.php"><i class="fa fa-user-plus" aria-hidden="true"></i>signup<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="../myfirstwebsite/New folder/signup.php"><i class="fa fa-user-plus" aria-hidden="true"></i>signup<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="login.php"><i class="fa fa-sign-in" aria-hidden="true"></i>login</a>
+                <a class="nav-link" href="../myfirstwebsite/New folder/login.php"><i class="fa fa-sign-in" aria-hidden="true"></i>login</a>
             </li>
         </ul>
     </div>
